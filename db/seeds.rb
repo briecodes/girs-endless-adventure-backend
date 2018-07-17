@@ -1,7 +1,7 @@
 high_scores = [
-  {score: 100, initials: 'BAM'},
-  {score: 130, initials: 'S*M'},
-  {score: 150, initials: 'ASS'}
+  {score: 100, initials: 'TOM'},
+  {score: 130, initials: 'SAM'},
+  {score: 150, initials: 'CAP'}
 ]
 
 high_scores.each do |score|
